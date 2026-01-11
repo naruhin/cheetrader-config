@@ -1,0 +1,16 @@
+{
+  "grpcHost": "77.42.81.235",
+  "grpcPort": 9090,
+  "useTls": false,
+  "restHost": "77.42.81.235",
+  "restPort": 8080,
+  "minClientVersion": "1.0.0",
+  "maintenance": false,
+  "maintenanceMessage": null,
+  "announcement": "Welcome to CheeTrader system!",
+  "features": {
+    "autoTradeEnabled": true,
+    "demoModeEnabled": true,
+    "liveModeEnabled": true
+  }
+}
