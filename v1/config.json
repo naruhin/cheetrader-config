@@ -7,10 +7,11 @@
   "minClientVersion": "1.0.0",
   "maintenance": false,
   "maintenanceMessage": null,
-  "announcement": null,
+  "announcement": "Никита Вовчик крутяк!",
   "features": {
     "autoTradeEnabled": true,
     "demoModeEnabled": true,
     "liveModeEnabled": true
   }
 }
+
