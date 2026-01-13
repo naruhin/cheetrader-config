@@ -7,13 +7,14 @@
   "minClientVersion": "1.0.0",
   "maintenance": true,
   "maintenanceMessage": "Tech works",
-  "announcement": null,
+  "announcement": "жопа",
   "features": {
     "autoTradeEnabled": true,
     "demoModeEnabled": true,
     "liveModeEnabled": true
   }
 }
+
 
 
 
