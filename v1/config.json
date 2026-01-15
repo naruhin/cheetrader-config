@@ -5,15 +5,16 @@
   "restHost": "cheetrader.duckdns.org",
   "restPort": 443,
   "minClientVersion": "1.0.0",
-  "maintenance": true,
+  "maintenance": false,
   "maintenanceMessage": null,
-  "announcement": "жопа",
+  "announcement": null,
   "features": {
     "autoTradeEnabled": true,
     "demoModeEnabled": true,
     "liveModeEnabled": true
   }
 }
+
 
 
 
