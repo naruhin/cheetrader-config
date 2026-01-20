@@ -1,6 +1,6 @@
 {
   "grpcHost": "77.42.81.235",
-  "grpcPort": 9090,
+  "grpcPort": 9443,
   "useTls": false,
   "restHost": "cheetrader.duckdns.org",
   "restPort": 443,
@@ -14,6 +14,7 @@
     "liveModeEnabled": true
   }
 }
+
 
 
 
