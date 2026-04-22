@@ -1,8 +1,8 @@
 {
-  "grpcHost": "77.42.81.235",
-  "grpcPort": 9090,
-  "useTls": false,
-  "restHost": "cheetrader.duckdns.org",
+  "grpcHost": "grpc.cheetrader.app",
+  "grpcPort": 443,
+  "useTls": true,
+  "restHost": "api.cheetrader.app",
   "restPort": 443,
   "minClientVersion": "1.0.0",
   "maintenance": false,
