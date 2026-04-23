@@ -13,16 +13,16 @@
     "demoModeEnabled": true,
     "liveModeEnabled": true
   },
-  "latestVersion": "1.4.1",
+  "latestVersion": "1.4.5",
   "updateUrls": {
-    "WINDOWS": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.1/CheeTrader-Win-Installer.msi",
-    "MACOS_ARM": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.1/CheeTrader-macOs-AppleSilicon-Installer.dmg",
-    "MACOS_INTEL": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.1/CheeTrader-macOs-Intel-Installer.dmg"
+    "WINDOWS": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.5/CheeTrader-Win-Installer.msi",
+    "MACOS_ARM": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.5/CheeTrader-macOs-AppleSilicon-Installer.dmg",
+    "MACOS_INTEL": "https://github.com/naruhin/cheetrader-releases/releases/download/v1.4.5/CheeTrader-macOs-Intel-Installer.dmg"
   },
   "checksums": {
-    "WINDOWS": "041afe6a67e76e3501775d3fa6d69f7590a8a01c70552f6eb0571b8b514d72f5",
-    "MACOS_ARM": "160f77048e5c9bf15f863b1c14de2017866f388524f1ab44548e4528b33d643b",
-    "MACOS_INTEL": "d518d5c73052344a362f33dff577e3eaf41bc73e6e3c3edef8bcd24edf4b1758"
+    "WINDOWS": "a396f1dffccf05f01f01967ee1009d3d516c8da9e0aab4cd3e6e0615c9fbe4b1",
+    "MACOS_ARM": "1ed9865190712bc3fb6e60cf2a1211724f9e5cce71bac466b9ff621f5b09da26",
+    "MACOS_INTEL": "cbcd6baa951c09c542f662c340d5d5c0bcfb68472e801af0da662582e5ce3e2d"
   },
   "forceUpdate": false
 }
